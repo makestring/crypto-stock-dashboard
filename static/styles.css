@@ -1,0 +1,33 @@
+/* Custom styles */
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: none;
+}
+
+.card-header {
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+}
+
+.table {
+    margin-bottom: 0;
+}
+
+.btn-sm {
+    margin: 2px;
+}
+
+.modal-content {
+    border-radius: 10px;
+}
+
+#assetChart {
+    max-height: 400px;
+}
